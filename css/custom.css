@@ -1,0 +1,20 @@
+.chrome-plugin-demo-panel {
+    position: fixed;
+    right: 0;
+    bottom: 10px;
+    background: #3385ff;
+    padding: 10px;
+    box-shadow: 0px 0px 10px #002761;
+    border-radius: 3px;
+    color: white;
+    height: 150px;
+}
+.chrome-plugin-demo-panel a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+.chrome-plugin-demo-panel a:hover{
+    text-decoration: underline;
+    color: #ffee08;
+}

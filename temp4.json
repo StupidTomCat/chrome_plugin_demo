@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "from": "local",
+    "result": "suee",
+    "message": "",
+    "quality": 32,
+    "format": "flv480",
+    "timelength": 629017,
+    "accept_format": "flv,flv720,flv480,mp4",
+    "accept_description": [
+      "高清 1080P",
+      "高清 720P",
+      "清晰 480P",
+      "流畅 360P"
+    ],
+    "accept_quality": [
+      80,
+      64,
+      32,
+      16
+    ],
+    "video_codecid": 7,
+    "seek_param": "start",
+    "seek_type": "offset",
+    "durl": [
+      {
+        "order": 1,
+        "length": 629017,
+        "size": 31580116,
+        "ahead": "",
+        "vhead": "",
+        "url": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/48/47/221164748/221164748-1-32.flv?e=ig8euxZM2rNcNbRg7WdVhoM1hbUVhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNo8g2ENvNo8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859r1qXg8gNEVE5XREto8z5JZC2X2gkX5L5F1eTX1jkXlsTXHeux_f2o859IB_&uipk=5&nbs=1&deadline=1612352987&gen=playurl&os=cosbv&oi=3062787962&trid=e7551a99844c42ada082388d2c16cc5au&platform=pc&upsig=6e08f47ad246baa8d39217eb278f25e5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=1&logo=80000000",
+        "backup_url": [
+          "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/48/47/221164748/221164748-1-32.flv?e=ig8euxZM2rNcNbRg7WdVhoM1hbUVhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNo8g2ENvNo8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859r1qXg8gNEVE5XREto8z5JZC2X2gkX5L5F1eTX1jkXlsTXHeux_f2o859IB_&uipk=5&nbs=1&deadline=1612352987&gen=playurl&os=cosbv&oi=3062787962&trid=e7551a99844c42ada082388d2c16cc5au&platform=pc&upsig=6e08f47ad246baa8d39217eb278f25e5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=1,3&agrr=1&logo=40000000",
+          "https://upos-sz-mirrorcosb.bilivideo.com/upgcxcode/48/47/221164748/221164748-1-32.flv?e=ig8euxZM2rNcNbRg7WdVhoM1hbUVhwdEto8g5X10ugNcXBlqNxHxNEVE5XREto8KqJZHUa6m5J0SqE85tZvEuENvNo8g2ENvNo8i8o859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859r1qXg8gNEVE5XREto8z5JZC2X2gkX5L5F1eTX1jkXlsTXHeux_f2o859IB_&uipk=5&nbs=1&deadline=1612352987&gen=playurl&os=cosbbv&oi=3062787962&trid=e7551a99844c42ada082388d2c16cc5au&platform=pc&upsig=efda18ed84503aba194de45c5575f197&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=2,3&agrr=1&logo=40000000"
+        ]
+      }
+    ],
+    "support_formats": [
+      {
+        "quality": 80,
+        "format": "flv",
+        "new_description": "1080P 高清",
+        "display_desc": "1080P",
+        "superscript": ""
+      },
+      {
+        "quality": 64,
+        "format": "flv720",
+        "new_description": "720P 高清",
+        "display_desc": "720P",
+        "superscript": ""
+      },
+      {
+        "quality": 32,
+        "format": "flv480",
+        "new_description": "480P 清晰",
+        "display_desc": "480P",
+        "superscript": ""
+      },
+      {
+        "quality": 16,
+        "format": "mp4",
+        "new_description": "360P 流畅",
+        "display_desc": "360P",
+        "superscript": ""
+      }
+    ]
+  }
+}

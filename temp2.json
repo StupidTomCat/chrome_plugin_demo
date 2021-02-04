@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "from": "local",
+    "result": "suee",
+    "message": "",
+    "quality": 6,
+    "format": "mp4",
+    "timelength": 305686,
+    "accept_format": "mp4",
+    "accept_description": [
+      "极速 240P"
+    ],
+    "accept_quality": [
+      6
+    ],
+    "video_codecid": 7,
+    "seek_param": "start",
+    "seek_type": "second",
+    "durl": [
+      {
+        "order": 1,
+        "length": 305686,
+        "size": 8648012,
+        "ahead": "",
+        "vhead": "",
+        "url": "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/03/12/92761203/92761203-1-6.mp4?e=ig8euxZM2rNcNbuVhwdVtWuVhwdVNEVEuCIv29hEn0lqXg8Y2ENvNCImNEVEUJ1miI7MT96fqj3E9r1qNCNEtodEuxTEtodE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&uipk=5&nbs=1&deadline=1612349932&gen=playurl&os=hwbv&oi=3062787962&trid=e23f874680e040959bc65d80b616d8e0u&platform=pc&upsig=350ce8768b10c5e45939231c15feb452&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=0,3&agrr=1&logo=80000000",
+        "backup_url": [
+          "https://upos-sz-mirrorhw.bilivideo.com/upgcxcode/03/12/92761203/92761203-1-6.mp4?e=ig8euxZM2rNcNbuVhwdVtWuVhwdVNEVEuCIv29hEn0lqXg8Y2ENvNCImNEVEUJ1miI7MT96fqj3E9r1qNCNEtodEuxTEtodE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&uipk=5&nbs=1&deadline=1612349932&gen=playurl&os=hwbv&oi=3062787962&trid=e23f874680e040959bc65d80b616d8e0u&platform=pc&upsig=350ce8768b10c5e45939231c15feb452&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=1,3&agrr=1&logo=40000000",
+          "https://upos-sz-mirrorhwb.bilivideo.com/upgcxcode/03/12/92761203/92761203-1-6.mp4?e=ig8euxZM2rNcNbuVhwdVtWuVhwdVNEVEuCIv29hEn0lqXg8Y2ENvNCImNEVEUJ1miI7MT96fqj3E9r1qNCNEtodEuxTEtodE9EKE9IMvXBvE2ENvNCImNEVEK9GVqJIwqa80WXIekXRE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&uipk=5&nbs=1&deadline=1612349932&gen=playurl&os=hwbbv&oi=3062787962&trid=e23f874680e040959bc65d80b616d8e0u&platform=pc&upsig=e9fe88f7af762f8df87813df5b2916d2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&orderid=2,3&agrr=1&logo=40000000"
+        ]
+      }
+    ],
+    "support_formats": [
+      {
+        "quality": 6,
+        "format": "mp4",
+        "new_description": "240P 极速",
+        "display_desc": "240P",
+        "superscript": ""
+      }
+    ]
+  }
+}

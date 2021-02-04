@@ -1,0 +1,53 @@
+{
+  "manifest_version": 2,
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "永远点不到的搜索按钮;实时监视网站在线状态,天气预报",
+  "icons": {
+    "16": "imgs/yuan_rss_03.png",
+    "48": "imgs/yuan_rss_03.png",
+    "128": "imgs/yuan_rss_03.png"
+  },
+  "background": {
+    "scripts": ["js/status.js","js/background.js"]
+  },
+  "browser_action": {
+    "default_title": "哔哩哔哩让我看不了视频",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.sogou.com/"
+      ],
+      "js": [
+        "js/jquery-3.0.0.js",
+        "js/cannot_touch.js"
+      ]
+    },
+    {
+      "matches": ["<all_urls>"],
+      "js": ["js/jquery-3.0.0.js", "js/content-script.js"],
+      "css": ["css/custom.css"],
+      "run_at": "document_start"
+    }
+  ],
+  "permissions": [
+    "http://*/*",
+    "https://www.csdn.net/",
+    "http://wthrcdn.etouch.cn/weather_mini?city=*"
+  ],
+  "web_accessible_resources": [
+    "js/inject.js"
+  ],
+  "homepage_url": "http://175.24.117.235",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "options_page": "options.html",
+  "options_ui": {
+    "page": "options.html"
+  },
+  "default_locale": "zh_CN",
+  "devtools_page": "devtools.html"
+}
